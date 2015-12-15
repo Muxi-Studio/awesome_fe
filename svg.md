@@ -16,7 +16,7 @@
 
 + 既而发现了[codrops](http://tympanus.net/codrops/)这个网站，上面有不少炫酷的css动画效果
 
-+ [SVG-一套SVG动画天气图标](http://codepen.io/noahblon/pen/lxukH/)
++ [SVG_一套SVG动画天气图标](http://codepen.io/noahblon/pen/lxukH/)
 
 + [Sara的一个slide，Lots of cool animations](http://slides.com/sarasoueidan/building-better-interfaces-with-svg/)
 

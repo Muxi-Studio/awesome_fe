@@ -3,7 +3,7 @@ awesome resources for front-end development
 
 ****
 
-+ [SVG]()
++ [SVG](https://github.com/Muxi-Studio/awesome_fe/blob/master/svg.md)
 + 类库  
 
 
