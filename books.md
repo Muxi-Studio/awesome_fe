@@ -5,6 +5,7 @@
 ###Freshmen
 + [《JavaScript DOM编程艺术(第2版)》](http://www.amazon.cn/JavaScript-DOM%E7%BC%96%E7%A8%8B%E8%89%BA%E6%9C%AF-%E5%9F%BA%E6%80%9D/dp/B004VJM5KE/ref=sr_1_1?ie=UTF8&qid=1450519613&sr=8-1&keywords=dom%E7%BC%96%E7%A8%8B%E8%89%BA%E6%9C%AF)
 + [《锋利的jQuery(第2版)》](http://www.amazon.cn/锋利的jQuery-单东林/dp/B0089TDFNS/ref=sr_1_21?ie=UTF8&qid=1450622193&sr=8-21&keywords=javascript)
++ [《Speaking JavaScript》](http://speakingjs.com/es5/index.html)
 
 
 ###Juior
