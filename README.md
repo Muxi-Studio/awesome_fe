@@ -1,5 +1,7 @@
 # awesome_fe
-awesome resources for front-end development
+Awesome resources for front-end development 
+
+collected by Muxi FE team
 
 ****
 
