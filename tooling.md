@@ -2,15 +2,22 @@
 
 *工欲善其事，必先利其器*
 
-###视频
+###Videos
 
-+ [Totally Tooling Tips-Google Developers](https://developers.google.com/web/shows/ttt/?hl=en) 风趣的二人转小视频。讲了各种web开发有关的工具，sublime，es6，linting，so on.
++ [Totally Tooling Tips-Google Developers](https://developers.google.com/web/shows/ttt/?hl=en) 风趣的二人转小视频。讲了各种web开发有关的工具，sublime，es6，linting，and so on.
 
 
 ###Sublime
 
-占位
-###终端
++ [Emmet — the essential toolkit for web-developers](https://packagecontrol.io/packages/Emmet) 必备插件
++ [Emmet LiveStyle. The first bi-directional real-time edit tool for CSS, LESS and SCSS.](http://livestyle.io/) CSS双向实时编辑工具
++ [Doc​Blockr](https://packagecontrol.io/packages/DocBlockr) 快捷插入注释和文档
++ [All Autocomplete](https://packagecontrol.io/packages/All%20Autocomplete) 扫描所有打开的文件进行匹配的自动代码补全插件，可以方便输入其他文件中的变量名
++ [HTML-CSS-JS Prettify](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify) 代码格式化工具，支持HTML，CSS和JS
++ [Babel-Syntax definitions for ES6 JavaScript with React JSX extensions.](https://packagecontrol.io/packages/Babel) ES6 JSX的代码高亮，如果要用ES6写React的话必装
++ [React ES6 Snippets](https://packagecontrol.io/packages/React%20ES6%20Snippets) React ES6代码段 
+
+###Terminal
 占位
 
 ###Linting
@@ -19,5 +26,13 @@
 
 ###Build Tools
 
-+ [How to Use npm as a Build Tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/) NPM Script使用指南
+####General
++ [2015年末必备前端工具集](http://zxc0328.github.io/2015/12/28/2015-javascript-tools/)
+
+####Webpack
 + [From Require.js to Webpack ](https://www.paypal-engineering.com/2015/08/07/1450/) 从Require.js迁移到Webpack的howto
++ [Webpack-howto](https://github.com/petehunt/webpack-howto)
+
+####NPM
+
++ [How to Use npm as a Build Tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/) NPM Script使用指南
