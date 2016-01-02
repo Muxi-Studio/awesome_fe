@@ -24,14 +24,21 @@
 
 占位
 
+###Chrome DevTools & Extensions
+
++ [Chrome DevTools-Google Developers](https://developers.google.com/web/tools/chrome-devtools/) 官方文档
++ [React Developer Tools](https://facebook.github.io/react/blog/2015/09/02/new-react-developer-tools.html) React开发者工具Chrome插件，可以直观的查看组件树以及状态和属性等等。
+
 ###Build Tools
 
 ####General
+
 + [2015年末必备前端工具集](http://zxc0328.github.io/2015/12/28/2015-javascript-tools/)
 
 ####Webpack
 + [From Require.js to Webpack ](https://www.paypal-engineering.com/2015/08/07/1450/) 从Require.js迁移到Webpack的howto
 + [Webpack-howto](https://github.com/petehunt/webpack-howto)
++ [Long-term caching of static assets with Webpack](https://medium.com/@okonetchnikov/long-term-caching-of-static-assets-with-webpack-1ecb139adb95#.lkhrizxt7) 如何在Webpack中给assets加上hash以及对HTML进行assets入口文件名同步的预处理
 
 ####NPM
 
