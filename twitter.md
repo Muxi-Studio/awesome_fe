@@ -9,7 +9,7 @@
 + [Lea Verou](https://twitter.com/LeaVerou) 《CSS Secrets》作者
 + [John Resig](https://twitter.com/jeresig) Jquery作者
 + [David Walsh](https://twitter.com/davidwalshblog) Mozilla前端工程师
-+ [Chris Coyier](https://twitter.com/chriscoyier)
++ [Chris Coyier](https://twitter.com/chriscoyier) CSS-Tricks&CodePen
 + [Paul Irish](https://twitter.com/paul_irish) Google Chrome团队工程师，[他的博客](http://paulirish.com)质量很高
 + [Addy Osmani](https://twitter.com/addyosmani) Google Chrome团队工程师，TodoMVC, Yeoman, Material Design Lite作者
 + [Nicholas C. Zakas](https://twitter.com/slicknet) 《Javascript高级程序设计》作者
@@ -17,3 +17,4 @@
 + [Sara Soueidan](https://twitter.com/SaraSoueidan) SVG专家
 + [Evan You](https://twitter.com/youyuxi) 尤雨溪，Vuejs作者。他在微博上和知乎上都很活跃
 + [Paul O’Shannessy](https://twitter.com/zpao) React团队工程师，[他的博客](http://zpao.com/posts/)有不少好文章，不过已经两年没更新了
++ [Mark Otto](https://twitter.com/mdo) Director of Design at GitHub. Creator of Bootstrap. Previously at Twitter. 他的推特上没什么干货。 [Blog](http://markdotto.com)有不少好文章。
