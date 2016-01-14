@@ -44,6 +44,7 @@
 + [Webpack-howto](https://github.com/petehunt/webpack-howto)
 + [Long-term caching of static assets with Webpack](https://medium.com/@okonetchnikov/long-term-caching-of-static-assets-with-webpack-1ecb139adb95#.lkhrizxt7) 如何在Webpack中给assets加上hash以及对HTML进行assets入口文件名同步的预处理
 + [React Hot Loader](http://gaearon.github.io/react-hot-loader/) Tweak React components in real time.
++ [webpack使用优化](http://www.alloyteam.com/2016/01/webpack-use-optimization/)
 ####NPM
 
 + [How to Use npm as a Build Tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/) NPM Script使用指南
