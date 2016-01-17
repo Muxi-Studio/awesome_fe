@@ -22,7 +22,7 @@
 
 ###Linting
 
-占位
++ [Detect Problems in JavaScript Automatically with ESLint](https://davidwalsh.name/eslint)
 
 ###Chrome DevTools & Extensions
 
