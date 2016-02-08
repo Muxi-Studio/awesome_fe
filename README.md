@@ -14,6 +14,7 @@ collected by Muxi FE team
 + [React](https://github.com/Muxi-Studio/awesome_fe/blob/master/react.md)
 + [Angular](https://github.com/Muxi-Studio/awesome_fe/blob/master/angular.md)
 + [Backbone](https://github.com/Muxi-Studio/awesome_fe/blob/master/backbone.md)
++ [Backbone](https://github.com/Muxi-Studio/awesome_fe/blob/master/browser.md)
 + [ES6](https://github.com/Muxi-Studio/awesome_fe/blob/master/es6.md)
 + [SVG](https://github.com/Muxi-Studio/awesome_fe/blob/master/svg.md)
 + [UI/UX](https://github.com/Muxi-Studio/awesome_fe/blob/master/ui.md)
