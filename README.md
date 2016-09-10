@@ -11,14 +11,15 @@ collected by Muxi FE team
 + [性能](https://github.com/Muxi-Studio/awesome_fe/blob/master/performance.md)
 + [测试](https://github.com/Muxi-Studio/awesome_fe/blob/master/testing.md)
 + [CSS](https://github.com/Muxi-Studio/awesome_fe/blob/master/css.md)
-+ [React](https://github.com/Muxi-Studio/awesome_fe/blob/master/react.md)
-+ [Angular](https://github.com/Muxi-Studio/awesome_fe/blob/master/angular.md)
-+ [Backbone](https://github.com/Muxi-Studio/awesome_fe/blob/master/backbone.md)
 + [Browser](https://github.com/Muxi-Studio/awesome_fe/blob/master/browser.md)
 + [ES6](https://github.com/Muxi-Studio/awesome_fe/blob/master/es6.md)
++ [Functional](https://github.com/Muxi-Studio/awesome_fe/blob/master/functional.md)
 + [SVG](https://github.com/Muxi-Studio/awesome_fe/blob/master/svg.md)
 + [UI/UX](https://github.com/Muxi-Studio/awesome_fe/blob/master/ui.md)
 + [其他](https://github.com/Muxi-Studio/awesome_fe/blob/master/else.md)
++ [React](https://github.com/Muxi-Studio/awesome_fe/blob/master/react.md)
++ [Angular](https://github.com/Muxi-Studio/awesome_fe/blob/master/angular.md)
++ [Backbone](https://github.com/Muxi-Studio/awesome_fe/blob/master/backbone.md)
 
 
 
