@@ -5,6 +5,7 @@ collected by Muxi FE team
 
 ****
 
++ [UI组件库列表](https://github.com/Muxi-Studio/awesome_fe/blob/master/lib.md)
 + [书籍推荐](https://github.com/Muxi-Studio/awesome_fe/blob/master/books.md)
 + [大牛推特](https://github.com/Muxi-Studio/awesome_fe/blob/master/twitter.md)
 + [工具](https://github.com/Muxi-Studio/awesome_fe/blob/master/tooling.md)
